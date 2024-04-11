@@ -1,3 +1,7 @@
+# :warning: Archived
+
+>This repository has been archived as its functionality has been moved to [sscs-tribunals-case-api](https://github.com/hmcts/sscs-tribunals-case-api/commit/703e43bb0ae5ce2b4e85dda8ecc1853da1fc8ca1).
+
 cd bin# sscs-ccd-callback-orchestrator
 
 [![Build Status](https://travis-ci.org/hmcts/sscs-ccd-callback-orchestrator.svg?branch=master)](https://travis-ci.org/hmcts/sscs-ccd-callback-orchestrator)
